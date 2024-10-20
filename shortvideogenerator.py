@@ -8,9 +8,9 @@ from io import BytesIO
 import tempfile
 
 # Application Heading
-st.title('Short Video Generator with Beat Synchronization')
-st.write(
-    'Upload images and an audio track to create a vertical 9:16 video, synced with the audio beats. Perfect for IG Reels, Meta Shorts, YouTube Shorts, or TikTok.')
+st.title('Photo Beats')
+st.header('Vertical Video Made Easy')
+st.write("Upload your photos and an audio track and we'll create a vertical video in sync with the beat!")
 
 # Image Aspect Ratio Conversion: Crop vertical to size, pad horizontal to size
 def convert_to_9_16(image):
