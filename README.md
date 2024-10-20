@@ -4,4 +4,4 @@ This project was inspired by my love of photography and art, but my complete dis
 1. Upload your photos as png or jpg files
 2. Upload an audio track as an mp3 or wav
 3. Click submit and allow time to process
-4. Review your final video and download if you like it!
+4. Review your final video and download if you like it
