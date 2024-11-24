@@ -1,5 +1,6 @@
 import streamlit as st
 from PIL import Image, ImageFilter
+import moviepy
 from moviepy.editor import ImageClip, concatenate_videoclips, AudioFileClip
 import librosa
 import numpy as np
