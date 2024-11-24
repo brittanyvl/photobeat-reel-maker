@@ -58,10 +58,12 @@ Follow these steps to set up Photo Beats locally and start creating your videos.
 
 ## Screenshots 📸  
 ### Upload Interface:  
-*(Include screenshots of the photo and audio upload screen here.)*  
+![img.png](img.png)
+![img_1.png](img_1.png)
+
 
 ### Video Preview:  
-*(Show an example of the preview screen with the generated video.)*  
+![img_3.png](img_3.png)
 
 ### Example Video:
 [Example Reel by @TrippingCherry on IG](https://www.instagram.com/p/DCdMUGoBY7-/)
