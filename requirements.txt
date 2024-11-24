@@ -1,5 +1,6 @@
 streamlit
 moviepy
-librosa
-pillow
 numpy
+pillow
+imageio[ffmpeg]
+librosa
